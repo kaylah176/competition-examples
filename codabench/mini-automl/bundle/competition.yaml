@@ -63,6 +63,8 @@ phases:
   tasks:
   - 0
   solutions: []
+  starting_kit: starting_kit
+  public_data: feedback_phase/input_data
 - index: 1
   name: Final
   description: 'Final phase: submissions from the previous phase are automatically
