@@ -11,7 +11,7 @@ All tasks are **classification tasks**.
 
 ### Data references
 
-Dataset from [UCI Machine Lerning Repository](https://archive.ics.uci.edu/ml/index.php).
+Dataset from [UCI Machine Lerning Repository](https://archive.ics.uci.edu/).
 
 |Phase|Nickname|Dataset|Authors|
 |---|---|---|---|
