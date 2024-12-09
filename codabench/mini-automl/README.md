@@ -1,4 +1,4 @@
-# Mini-AutoML Benchmark
+## Mini-AutoML Benchmark
 
 ![logo](bundle/logo.png)
 
